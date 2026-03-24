@@ -1,0 +1,7 @@
+# Requirements for Chroma DB Integration
+
+chromadb
+fastapi
+uvicorn
+python-dotenv
+# Additional dependencies may be required based on specific use cases for semantic search and member management.
